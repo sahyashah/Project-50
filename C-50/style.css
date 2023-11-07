@@ -1,0 +1,28 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: beige;
+    font-size: 25px;
+    font-family: algerian;
+    font-weight: 300;
+    color:black;
+}
+
+body{
+    background-color: blue;
+}
+
+.grid img{
+    display:flex;
+    flex-wrap:wrap;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border: 2px solid beige;
+    border-radius:20px;
+    width:310px
+    font-familyfantasy;
+    background-color:cyan;
+}
